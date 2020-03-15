@@ -6,6 +6,9 @@ public class GitDay2 {
 		
 		System.out.println("Hello world!");
 		System.out.println("Hello earth");
+		
+		System.out.println("I am ali");
+		
 
 	}
 
